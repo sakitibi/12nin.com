@@ -4,19 +4,6 @@
   box-sizing: border-box;
 }
 
-.background {
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  background: linear-gradient(
-    to left top,
-    rgb(20, 226, 116),
-    rgb(1, 110, 52)
-  );
-  font-family: "Poppins", sans-serif;
-}
 .menu-item {
   list-style: none;
   display: inline-block;
